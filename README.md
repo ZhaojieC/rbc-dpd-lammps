@@ -9,6 +9,9 @@ through a slit.
 A version for one NVIDIA GPU (KOKKOS package) is in
 [rbc-dpd-lammps-gpu](https://github.com/ZhaojieC/rbc-dpd-lammps-gpu).
 
+If you use this code, please cite
+[Chai et al., Biophys. J. (2026)](https://doi.org/10.1016/j.bpj.2026.10.021).
+
 <p align="center"><img src="docs/slit.gif" width="640" alt="A red cell passing through a slit"></p>
 
 ## Contents
