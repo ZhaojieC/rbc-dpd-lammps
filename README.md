@@ -11,6 +11,9 @@ A version for one NVIDIA GPU (KOKKOS package) is in
 
 If you use this code, please cite
 [Chai et al., Biophys. J. (2026)](https://doi.org/10.1016/j.bpj.2026.10.021).
+LAMMPS reminds you of it at the end of every run that uses these styles
+and writes its BibTeX entry, with that of the membrane model of Fedosov
+et al. (2010), to the log file (`log.lammps`).
 
 <p align="center"><img src="docs/slit.gif" width="640" alt="A red cell passing through a slit"></p>
 
